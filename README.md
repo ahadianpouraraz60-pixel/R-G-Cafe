@@ -154,7 +154,7 @@
             <h2></h2>
             <div class="menu-item">
                 <h3></h3>
-                <span class="price"</span>
+                <span class="price"></span>
             </div>
             <div class="menu-item">
                 <h3> </h3>
@@ -162,7 +162,7 @@
             </div>
             <div class="menu-item">
                 <h3></h3>
-                <span class="price"</span>
+                <span class="price"></span>
             </div>
             <!-- Add more pastries here -->
         </section>
