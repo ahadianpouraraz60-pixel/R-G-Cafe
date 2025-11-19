@@ -3,7 +3,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title></title>
-    <link rel="stylesheet" href="caferng2.css">
 </head>
 <body>
     <header>
@@ -170,7 +169,7 @@
     <footer>
         <p>123 Luxury Lane, Gold City | Open: 7am - 7pm Daily</p>
     </footer>
-    <footer>کرج،رزکان نو،خیابان شهید کریمی،روبروی اکومال (روست و فروش قهوه)</footer></body></html>
+    <footer>کرج،رزکان نو،خیابان شهید کریمی،روبروی اکومال (روست و فروش قهوه)</footer>
 
 
 
