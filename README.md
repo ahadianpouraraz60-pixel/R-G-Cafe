@@ -151,18 +151,18 @@
         </section>
 
         <section class="menu">
-            <h2>Pastries</h2>
+            <h2></h2>
             <div class="menu-item">
-                <h3>Croissant</h3>
-                <span class="price">$3.00</span>
+                <h3></h3>
+                <span class="price</span>
             </div>
             <div class="menu-item">
-                <h3>Chocolate Almond Croissant</h3>
-                <span class="price">$3.75</span>
+                <h3> </h3>
+                <span class="price"></span>
             </div>
             <div class="menu-item">
-                <h3>Blueberry Muffin</h3>
-                <span class="price">$3.25</span>
+                <h3></h3>
+                <span class="price">$</span>
             </div>
             <!-- Add more pastries here -->
         </section>
