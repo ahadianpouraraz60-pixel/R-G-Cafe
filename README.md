@@ -18,95 +18,95 @@
         <section class="menu">
             <h2>نوشیدنی های گرم</h2>
             <div class="menu-item">
-                <h3>40 تومان</h3>
-                <span class="price">چای</span>
+                <h3>60 تومان</h3>
+                <span class="price">تک</span>
             </div>
             <div class="menu-item">
-                <h3>45 تومان</h3>
-                <span class="price">اسپرسو تک</span>
-            </div>
-            <div class="menu-item">
-                <h3>55 تومان</h3>
-                <span class="price">اسپرسودوبل</span>
-            </div>
-            <div class="menu-item">
-                <h3>65 تومان</h3>
-                <span class="price">آمریکانو</span>
-            </div>
-            <div class="menu-item">
-                <h3>تومان 75</h3>
-                <span class="price">آیس آمریکانو</span>
-            </div>
-            <div class="menu-item">
-                <h3>تومان 80</h3>
-                <span class="price">ماسالا</span>
+                <h3>70 تومان</h3>
+                <span class="price">دوبل</span>
             </div>
             <div class="menu-item">
                 <h3>80 تومان</h3>
-                <span class="price">چای کرک</span>
+                <span class="price">اآمریکانو</span>
             </div>
             <div class="menu-item">
-                <h3>تومان 85</h3>
-                <span class="price">نسکافه</span>
-            </div>
-            <div class="menu-item">
-                <h3>تومان 85</h3>
-                <span class="price">هات چاکلت</span>
-            </div>
-            <div class="menu-item">
-                <h3>تومان 85</h3>
-                <span class="price">کاپوچینو</span>
-            </div>
-            <div class="menu-item">
-                <h3>تومان 90</h3>
+                <h3>110 تومان</h3>
                 <span class="price">لاته</span>
             </div>
             <div class="menu-item">
-                <h3>تومان 90</h3>
-                <span class="price">شیرپسته</span>
-            </div>
-            <div class="menu-item">
-                <h3>تومان 90</h3>
-                <span class="price">آفوگاتو</span>
-            </div>
-            <div class="menu-item">
-                <h3>تومان 95</h3>
-                <span class="price">آیس نسکافه</span>
-            </div>
-            <div class="menu-item">
-                <h3>تومان 100</h3>
+                <h3>تومان 110</h3>
                 <span class="price">موکا</span>
             </div>
             <div class="menu-item">
-                <h3>تومان 100</h3>
-                <span class="price">آیس لاته</span>
+                <h3>تومان 90</h3>
+                <span class="price">نسکافه</span>
             </div>
             <div class="menu-item">
-                <h3>تومان 100</h3>
-                <span class="price">شیرموز</span>
+                <h3>100 تومان</h3>
+                <span class="price">هات چاکلت</span>
             </div>
             <div class="menu-item">
-                <h3>تومان 105</h3>
-                <span class="price">آیس موکا</span>
+                <h3>تومان 90</h3>
+                <span class="price">کاپچینو</span>
             </div>
             <div class="menu-item">
-                <h3>تومان 110</h3>
+                <h3>تومان 90</h3>
+                <span class="price">ماسالا</span>
+            </div>
+            <div class="menu-item">
+                <h3>تومان 90</h3>
+                <span class="price">چای کرک</span>
+            </div>
+            <div class="menu-item">
+                <h3>تومان 130</h3>
+                <span class="price">شیر موز</span>
+            </div>
+            <div class="menu-item">
+                <h3>تومان 135</h3>
                 <span class="price">آیس ماکیاتو</span>
             </div>
             <div class="menu-item">
-                <h3>تومان 110</h3>
+                <h3>تومان 135</h3>
                 <span class="price">آیس کارامل</span>
             </div>
             <div class="menu-item">
-                <h3>تومان 160</h3>
+                <h3>تومان 135</h3>
+                <span class="price">آیس لاته</span>
+            </div>
+            <div class="menu-item">
+                <h3>تومان 135</h3>
+                <span class="price">آیس موکا</span>
+            </div>
+            <div class="menu-item">
+                <h3>تومان 95</h3>
+                <span class="price">آیس آمریکانو</span>
+            </div>
+            <div class="menu-item">
+                <h3>تومان 100</h3>
+                <span class="price">آیس نسکافه</span>
+            </div>
+            <div class="menu-item">
+                <h3>تومان 115</h3>
+                <span class="price">آفوگاتو</span>
+            </div>
+            <div class="menu-item">
+                <h3>تومان 165</h3>
                 <span class="price">کافه گلاسه</span>
             </div>
             <div class="menu-item">
-                <h3>تومان 160</h3>
+                <h3>تومان 195</h3>
                 <span class="price">شیک نسکافه</span>
             </div>
             <div class="menu-item">
-                <h3>تومان 160</h3>
+                <h3>تومان 195</h3>
+                <span class="price">شیک لوتوس</span>
+            </div>
+            <div class="menu-item">
+                <h3>تومان 195</h3>
+                <span class="price">شیک توت فرنگی</span>
+            </div>
+            <div class="menu-item">
+                <h3>تومان 195</h3>
                 <span class="price">شیک نوتلا</span>
             </div>
             <div class="menu-item">
@@ -114,12 +114,12 @@
                 <span class="price">شیک توت فرنگی</span>
             </div>
             <div class="menu-item">
-                <h3>تومان 160</h3>
-                <span class="price">شیک موز</span>
+                <h3>تومان 115</h3>
+                <span class="price">شیر قهوه</span>
             </div>
             <div class="menu-item">
-                <h3>تومان 160</h3>
-                <span class="price">شیک لوتوس</span>
+                <h3>تومان 100</h3>
+                <span class="price">شیر کاکائو</span>
             </div>
             <!-- Add more drinks here -->
         </section>
