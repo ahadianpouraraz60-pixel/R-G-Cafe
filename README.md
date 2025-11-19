@@ -170,83 +170,48 @@
     <footer>
         <p>123 Luxury Lane, Gold City | Open: 7am - 7pm Daily</p>
     </footer>
-    <footer>کرج،رزکان نو،خیابان شهید کریمی،روبروی اکومال (روست و فروش قهوه)</footer>
-</body>
-</html>
+    <footer>کرج،رزکان نو،خیابان شهید کریمی،روبروی اکومال (روست و فروش قهوه)</footer></body></html>
 
 
     margin: 0;
     padding: 0;
-    box-sizing: border-box;}
-
-body {
+    box-sizing: border-box;} {
     font-family: 'Inter', sans-serif;
     background-color: #000; /* Rich Black background */
     color: #D4AF37; /* Classic Gold text color */
     line-height: 1.6;
-    padding: 20px;
-}
-
-
-header {
+    padding: 20px;}header {
     text-align: center;
     padding: 2rem 0;
     border-bottom: 1px solid #D4AF37; 
-    margin-bottom: 2rem;
-}
-
-header h1 {
+    margin-bottom: 2rem;}header h1 {
     font-family: 'Playfair Display', serif;
     font-size: 3.5rem;
     font-weight: 700;
     margin-bottom: 0.5rem;
-    text-shadow: 1px 1px 2px rgba(212, 175, 55, 0.3);
-}
-
-header p {
-    font-style: italic;
-    font-weight: 300;
-    color: #F5F5F5;
-}
-
-/* Menu Section Styles */
-.menu {
+    text-shadow: 1px 1px 2px rgba(212, 175, 55, 0.3);}header p {
+    font-style: italic;    font-weight: 300;
+    color: #F5F5F5;}/* Menu Section Styles */.menu {
     max-width: 600px;
-    margin: 0 auto 3rem auto; 
-}
-
-.menu h2 {
+    margin: 0 auto 3rem auto; }.menu h2 {
     font-family: 'Playfair Display', serif;
     text-align: center;
     margin-bottom: 2rem;
     font-size: 2rem;
     border-bottom: 1px solid #333;
-    padding-bottom: 0.5rem;
-}
-
-.menu-item {
+    padding-bottom: 0.5rem;}.menu-item {
     display: flex; 
     justify-content: space-between;
     align-items: center;
     padding: 1rem 0;
-    border-bottom: 1px dotted #333; 
-}
-
-.menu-item h3 {
+    border-bottom: 1px dotted #333; }.menu-item h3 {
     font-weight: 400;
-    font-size: 1.2rem;
-}
-
-.price {
+    font-size: 1.2rem;}.price {
     font-weight: normal;
     font-size: 25px;
-    color: #F5F5F5;
-}
-
-footer {
+    color: #F5F5F5;}footer {
     text-align: center;
     padding: 1.5rem;
     font-size: 0.9rem;
     color: #888;
-    border-top: 1px solid #333;
-}
+    border-top: 1px solid #333;}
