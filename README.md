@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -176,19 +175,9 @@
 </html>
 
 
-
-
-
-
-/* Import a elegant, modern font from Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Inter:wght@300;400&display=swap');
-
-/* Basic Reset & Global Styles */
-* {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
-}
+    box-sizing: border-box;}
 
 body {
     font-family: 'Inter', sans-serif;
@@ -198,11 +187,11 @@ body {
     padding: 20px;
 }
 
-/* Header Styles */
+
 header {
     text-align: center;
     padding: 2rem 0;
-    border-bottom: 1px solid #D4AF37; /* Gold accent line */
+    border-bottom: 1px solid #D4AF37; 
     margin-bottom: 2rem;
 }
 
@@ -217,13 +206,13 @@ header h1 {
 header p {
     font-style: italic;
     font-weight: 300;
-    color: #F5F5F5; /* Off-white for contrast */
+    color: #F5F5F5;
 }
 
 /* Menu Section Styles */
 .menu {
     max-width: 600px;
-    margin: 0 auto 3rem auto; /* Center the menu */
+    margin: 0 auto 3rem auto; 
 }
 
 .menu h2 {
@@ -236,11 +225,11 @@ header p {
 }
 
 .menu-item {
-    display: flex; /* This lines up the name and price */
+    display: flex; 
     justify-content: space-between;
     align-items: center;
     padding: 1rem 0;
-    border-bottom: 1px dotted #333; /* Subtle divider between items */
+    border-bottom: 1px dotted #333; 
 }
 
 .menu-item h3 {
@@ -251,10 +240,9 @@ header p {
 .price {
     font-weight: normal;
     font-size: 25px;
-    color: #F5F5F5; /* Make the price stand out in white */
+    color: #F5F5F5;
 }
 
-/* Footer Styles */
 footer {
     text-align: center;
     padding: 1.5rem;
