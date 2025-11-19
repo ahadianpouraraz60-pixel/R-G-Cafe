@@ -16,7 +16,7 @@
 
     <main>
         <section class="menu">
-            <h2>نوشیدنی های گرم</h2>
+            <h2>نوشیدنی </h2>
             <div class="menu-item">
                 <h3>60 تومان</h3>
                 <span class="price">تک</span>
