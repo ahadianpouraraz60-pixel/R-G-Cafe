@@ -27,7 +27,7 @@
             </div>
             <div class="menu-item">
                 <h3>80 تومان</h3>
-                <span class="price">اآمریکانو</span>
+                <span class="price">آمریکانو</span>
             </div>
             <div class="menu-item">
                 <h3>110 تومان</h3>
