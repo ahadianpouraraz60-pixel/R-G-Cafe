@@ -8,8 +8,8 @@
 <body>
     <header>
         <h1>R&G Cafe</h1>
-        <h2>Tel1: <Tel1>09123674521</Tel1> | Tel2: 
-            <Tel2>09104664521</Tel2></h2>
+        <h2>Tel1: <Tel1>09123674521 | Tel2: 
+            09104664521</h2>
         
     </header>
 
@@ -174,9 +174,4 @@
 
 
 
-    color: #F5F5F5;}footer {
-    text-align: center;
-    padding: 1.5rem;
-    font-size: 0.9rem;
-    color: #888;
-    border-top: 1px solid #333;}
+    
