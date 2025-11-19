@@ -9,8 +9,8 @@
 <body>
     <header>
         <h1>R&G Cafe</h1>
-        <h2>Tel1: <Tel1>09123674521</Tel1> | Tel2: 
-            <Tel2>09104664521</Tel2></h2>
+        <h2>Tel1:09123674521 | 
+             Tel2:09104664521</h2>
         
     </header>
 
@@ -169,7 +169,6 @@
     </main>
 
     <footer>
-        <p>123 Luxury Lane, Gold City | Open: 7am - 7pm Daily</p>
     </footer>
     <footer>کرج،رزکان نو،خیابان شهید کریمی،روبروی اکومال (روست و فروش قهوه)</footer>
 </body>
