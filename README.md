@@ -126,13 +126,13 @@
 
         <!-- NEW COFFEE BEANS SECTION -->
         <section class="menu">
-            <h2>دونه قهوه</h2>
+            <h2>قیمت کیلویی</h2>
             <div class="menu-item">
-                <h3>1280 تومان</h3>
+                <h3>1600 تومان</h3>
                 <span class="price">روبوستا %100</span>
             </div>
             <div class="menu-item">
-                <h3>1320 تومان</h3>
+                <h3>1700 تومان</h3>
                 <span class="price">روبوستا 10/90</span>
             </div>
             <div class="menu-item">
@@ -140,12 +140,88 @@
                 <span class="price">روبوستا20/80</span>
             </div>
             <div class="menu-item">
-                <h3>تومان 1400 تومان</h3>
+                <h3>تومان 1800 تومان</h3>
                 <span class="price">روبوستا 30/70</span>
             </div>
             <div class="menu-item">
-                <h3> 1450 تومان </h3>
+                <h3> 1900 تومان </h3>
                 <span class="price">روبوستا 40/60</span>
+            </div>
+              <div class="menu-item">
+                <h3> 2000 تومان </h3>
+                <span class="price"> 50/50</span>
+            </div>
+              <div class="menu-item">
+                <h3> 2100 تومان </h3>
+                <span class="price">60/40 عربیکا</span>
+            </div>
+              <div class="menu-item">
+                <h3> 2300 تومان </h3>
+                <span class="price">70/33 عربیکا</span>
+            </div>
+              <div class="menu-item">
+                <h3> 2500 تومان </h3>
+                <span class="price">100 عربیکا</span>
+            </div>
+              <div class="menu-item">
+                <h3>  تومان </h3>
+                <span class="price"></span>
+            </div>
+              <div class="menu-item">
+                <h3>  تومان </h3>
+                <span class="price"></span>
+            </div>
+              <div class="menu-item">
+                <h3> 1100 تومان </h3>
+                <span class="price">هات چاکلت</span>
+            </div>
+              <div class="menu-item">
+                <h3> 1300 تومان </h3>
+                <span class="price">هات چاکلت هلندی</span>
+            </div>
+              <div class="menu-item">
+                <h3> 570 تومان </h3>
+                <span class="price">کافی میت</span>
+            </div>
+              <div class="menu-item">
+                <h3> 870 تومان </h3>
+                <span class="price">ماسالا هند</span>
+            </div>
+              <div class="menu-item">
+                <h3> 800 تومان </h3>
+                <span class="price">کافی میکس</span>
+            </div>
+             <div class="menu-item">
+                <h3> 680 تومان </h3>
+                <span class="price">کاپوچینو</span>
+            </div>
+              <div class="menu-item">
+                <h3> 2800 تومان </h3>
+                <span class="price">پودر کاکائو</span>
+            </div>
+              <div class="menu-item">
+                <h3> 2850 تومان </h3>
+                <span class="price">گلد هند</span>
+            </div>
+              <div class="menu-item">
+                <h3> 3250 تومان </h3>
+                <span class="price">گلد برزیل</span>
+            </div>
+              <div class="menu-item">
+                <h3> 3600 تومان </h3>
+                <span class="price">گلد کلمبیا</span>
+            </div>
+              <div class="menu-item">
+                <h3> 3850 تومان </h3>
+                <span class="price">گلد اکوادور</span>
+            </div>
+              <div class="menu-item">
+                <h3> 2500 تومان </h3>
+                <span class="price">فوری</span>
+            </div>
+             <div class="menu-item">
+                <h3> 2550 تومان </h3>
+                <span class="price">کلاسیک هند</span>
             </div>
             <!-- Add more beans here -->
         </section>
