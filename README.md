@@ -164,14 +164,6 @@
                 <span class="price">100 عربیکا</span>
             </div>
               <div class="menu-item">
-                <h3>  تومان </h3>
-                <span class="price"></span>
-            </div>
-              <div class="menu-item">
-                <h3>  تومان </h3>
-                <span class="price"></span>
-            </div>
-              <div class="menu-item">
                 <h3> 1100 تومان </h3>
                 <span class="price">هات چاکلت</span>
             </div>
