@@ -18,11 +18,11 @@
         <section class="menu">
             <h2>نوشیدنی ها </h2>
             <div class="menu-item">
-                <h3>60 تومان</h3>
+                <h3>65 تومان</h3>
                 <span class="price">تک</span>
             </div>
             <div class="menu-item">
-                <h3>70 تومان</h3>
+                <h3>75 تومان</h3>
                 <span class="price">دوبل</span>
             </div>
             <div class="menu-item">
