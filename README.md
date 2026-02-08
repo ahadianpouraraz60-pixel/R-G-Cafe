@@ -46,7 +46,7 @@
                 <span class="price">هات چاکلت</span>
             </div>
             <div class="menu-item">
-                <h3>تومان 100</h3>
+                <h3>تومان 100,000</h3>
                 <span class="price">کاپچینو</span>
             </div>
             <div class="menu-item">
@@ -70,7 +70,7 @@
                 <span class="price">آیس کارامل</span>
             </div>
             <div class="menu-item">
-                <h3>تومان 140</h3>
+                <h3>تومان 140,000</h3>
                 <span class="price">آیس لاته</span>
             </div>
             <div class="menu-item">
@@ -94,7 +94,7 @@
                 <span class="price">کافه گلاسه</span>
             </div>
             <div class="menu-item">
-                <h3>تومان 200</h3>
+                <h3>تومان 200,000</h3>
                 <span class="price">شیک نسکافه</span>
             </div>
             <div class="menu-item">
@@ -106,7 +106,7 @@
                 <span class="price">شیک توت فرنگی</span>
             </div>
             <div class="menu-item">
-                <h3>تومان 200</h3>
+                <h3>تومان 200,000</h3>
                 <span class="price">شیک نوتلا</span>
             </div>
             <div class="menu-item">
